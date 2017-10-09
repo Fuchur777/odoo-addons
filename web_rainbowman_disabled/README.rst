@@ -2,9 +2,9 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-==================
+===================
 Rainbowman Disabled
-==================
+===================
 
 This module disables (hides) the Rainbow Man animations.
 
