@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="assets_common" name="rainbowman disabled assets" inherit_id="web.assets_common">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" href="/web_rainbowman_disabled/static/src/less/reward.less"/>
+        </xpath>
+    </template>
+
+</odoo>
