@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
-# Copyright 2017 Onestein (<http://www.onestein.nl>)
+# Copyright 2017 Onestein (<http://frank.schellenberg.nl>)
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
     'name': 'Rainbow Man Hidden',
     'summary': 'Hide the Rainbow Man animations',
     'license': 'AGPL-3',
-    'author': 'Onestein',
-    'website': 'http://www.onestein.nl',
+    'author': 'Frank Schellenberg',
+    'website': 'http://frank.schellenberg.nl',
     'category': 'Web',
     'version': '11.0.1.0.0',
     'price': 99,
