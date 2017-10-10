@@ -4,7 +4,8 @@
 
 {
     'name': 'Rainbow Man Hidden',
-    'summary': 'Hide the Rainbow Man animations',
+    'summary': 'Hide the Rainbow Man animations',    
+    'images': ['static/description/banner_rainbowman.png']
     'license': 'AGPL-3',
     'author': 'Frank Schellenberg',
     'website': 'http://frank.schellenberg.nl',
