@@ -28,4 +28,4 @@ Credits
 Contributors
 ------------
 
-* Frank Schellenberg <f.schellenberg@onestein.nl>
+* Frank Schellenberg <frank.schellenberg@gmail.com>
