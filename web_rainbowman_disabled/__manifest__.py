@@ -13,7 +13,7 @@
     'price': 99,
     'currency': 'EUR',
     'depends': [
-        'web', 'web_studio'
+        'web'
     ],
     'data': [
         'views/rainbowman_templates.xml',
