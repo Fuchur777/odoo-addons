@@ -11,7 +11,7 @@
     'website': 'http://frank.schellenberg.nl',
     'category': 'Web',
     'version': '11.0.1.0.0',
-    'price': 99,
+    'price': 0.99,
     'currency': 'EUR',
     'depends': [
         'web'
