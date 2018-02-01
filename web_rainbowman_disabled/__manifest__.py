@@ -4,7 +4,7 @@
 
 {
     'name': 'Rainbow Man Hidden',
-    'summary': 'Hide the Rainbow Man animations, lets test effective length here. 00000 11111 22222 33333 44444 55555 66666 7777 88888 9999',    
+    'summary': 'Hide the Rainbow Man animations',    
     'images': ['static/description/banner_rainbowman.png'],
     'license': 'AGPL-3',
     'author': 'Frank Schellenberg',
